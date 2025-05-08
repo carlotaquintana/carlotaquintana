@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi 👋
+
+🔧 Software Engineer
+
+🌍 Spain  
+💼 [in/carlotaquintana](ttps://es.linkedin.com/in/carlota-quintana-elhombre-a50a19304)
 
 <!--
 **carlotaquintana/carlotaquintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
